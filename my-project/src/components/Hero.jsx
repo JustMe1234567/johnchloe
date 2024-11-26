@@ -76,7 +76,7 @@ const Hero = () => {
               Download Resume
             </motion.a>
           </motion.div>
-        </div>
+        </div> 
       </div>
     </div>
   );
