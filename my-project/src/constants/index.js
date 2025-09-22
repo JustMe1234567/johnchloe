@@ -8,6 +8,20 @@ export const EXPERIENCES = [
     description: `Intern in the University's Sports and Development Office as a Tech Support and Developer. Developed an E-logbook system for the gyms users, borrowing items, and reservations. Made the system using PHP as backend and jquery for functionality.`,
     technologies: ["Javascript", "PHP", "JQuery", "SASS"],
   },
+  {
+    year: "2025",
+    role: "Computer Programmer",
+    company: "Sangguniang Panlungsod",
+    description: `I worked as a Computer Programmer at the Sangguniang Panlungsod Office, where I enhanced an existing franchising program by adding features and fixing functions to improve usability. I handled data entry and migrated city resolutions into the new database system, and I also managed the WordPress site by updating links and posting events and programs.`,
+    technologies: [
+      "Javascript",
+      "PHP",
+      "JQuery",
+      "vb.net",
+      "WordPress",
+      "Canva",
+    ],
+  },
 ];
 
 export const PROJECTS = [
